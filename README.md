@@ -1,2 +1,0 @@
-# viciado-burro
-Begin app
